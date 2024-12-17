@@ -1,0 +1,14 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: ingredientstock**
+
+**Developed by Jerome Villaruel**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Admin Login Details**
+
+Username: stephen
+Password: 123456
+

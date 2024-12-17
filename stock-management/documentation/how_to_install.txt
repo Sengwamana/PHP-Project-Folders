@@ -1,0 +1,33 @@
+-------------------------------
+#Minimum Software Requirements:
+-------------------------------
+..............
+a)Server Side:
+..............
+1. OS : Win 8 0r later
+        Linux (Tested On UBUNTU 16.04 LTS , Linux MINT 18)
+2. Browsers : ES 10+, Chrome Latest , Firefox  latest.
+3. PHP 5.6 or Newer
+4. MySQL
+
+(Tested On Both WAMP & XAMPP in Windows and LINUX [also tested on native LAMP] environments)
+
+
+..............
+b)Client Side:
+..............
+1. Browsers : ES 10+, Chrome Latest , Firefox Latest.(Java Script Must Be Enabled).
+    [works on both desktop and smartphones]
+
+
+
+--------------------------
+#Follow the steps below:
+--------------------------
+1. unzip the folder
+2. create a database. 
+3. copy the project folder to you server root (incase of windows wamp\www\ , xamp to xampp\htdocs\ , incase of lamp www/public_html)
+4. change your credendtials in 'sms\config\config.php'
+5. import the database (stockphp.sql)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------

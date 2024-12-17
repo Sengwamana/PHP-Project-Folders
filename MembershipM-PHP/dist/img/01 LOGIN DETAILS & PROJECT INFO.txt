@@ -1,0 +1,13 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: membershiphp**
+
+**Developed by CodeAstro**
+
+**Recommended PHP Version 7**
+
+
+**Login Details**
+
+Email   : admin@mail.com
+Password: codeastro.com

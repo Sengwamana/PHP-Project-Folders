@@ -1,0 +1,135 @@
+body {
+  background: #eee;
+}
+
+#title_container {
+  /* background: #B82907; */
+  background: #597482;
+  padding: 20px;
+}
+
+#title_container .container-fluid .brand {
+  font-family: "Corbel";
+  font-size: 30px;
+  font-weight: bolder;
+  color: #fff;
+}
+
+#title_container .container-fluid .system {
+  font-family: "Calibri";
+  font-size: 18px;
+  font-weight: lighter;
+  color: #fff;
+}
+
+#main_container {
+  margin-top: 50px;
+}
+
+.panel {
+  border: 1px solid #c7c7c7;
+}
+
+.panel .panel-heading {
+  background: #597482;
+  font-family: "Corbel";
+  font-size: 18px;
+  font-weight: lighter;
+  color: #fff;
+}
+
+label {
+  font-family: "Corbel";
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+h3 {
+  font-family: "Corbel";
+  font-size: 30px;
+  font-weight: lighter;
+  color: #333;
+}
+
+#account_register {
+  margin-top: 25px;
+}
+
+.btn-link {
+  text-decoration: none;
+  color: #333;
+  margin-left: 8px;
+}
+
+.btn-link:hover {
+  text-decoration: none;
+  color: #333;
+}
+
+.mean {
+  font-family: "Calibri";
+  font-size: 12px;
+  font-weight: lighter;
+  color: #aaa;
+  margin-top: -10px;
+}
+
+.user_name {
+  font-family: "Corbel";
+  font-size: 20px;
+  font-weight: bolder;
+  color: #333;
+}
+
+.user_position {
+  font-family: "Calibri";
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+.user_age {
+  font-family: "Calibri";
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+}
+
+.user_address {
+  font-family: "Calibri";
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+}
+
+#panel_table .panel-body {
+  padding: 0px;
+}
+
+#readonly {
+  border: none;
+  background: none;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  cursor: default;
+}
+
+.btn,
+select {
+  cursor: pointer;
+}
+
+h3 {
+  color: #333;
+  margin-bottom: 20px;
+}

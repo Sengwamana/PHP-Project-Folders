@@ -1,0 +1,12 @@
+**Database Name: librarymanagementdb**
+
+**Developed by Ronald Ngoda**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+
+**Login Details**
+
+Username: admin
+Password: admin

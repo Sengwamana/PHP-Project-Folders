@@ -1,0 +1,14 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: onleavemg**
+
+**Developed by Noor A Alam Siddique**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Admin Login Details**
+
+Username: BOE0001
+Password: 123456
+

@@ -1,0 +1,102 @@
+.bg-header {
+  background-color: #014e2e;
+}
+
+.color-header {
+  color: #014e2e;
+}
+
+body {
+  font-family: "Segoe UI";
+}
+
+.navbar-dark .navbar-toggler {
+  border: none;
+}
+
+.navbar-login-button {
+  border-color: rgba(255, 255, 255, 0.5);
+  color: white;
+  text-transform: capitalize;
+}
+
+.navbar-login-button:hover {
+  background-color: initial;
+}
+
+.facebook-logo:hover {
+  color: #3b5998;
+  border-color: #3b5998;
+}
+
+.googleplus-logo:hover {
+  color: #dd4b39;
+  border-color: #dd4b39;
+}
+
+.twitter-logo:hover {
+  color: #55acee;
+  border-color: #55acee;
+}
+
+.mail-logo:hover {
+  color: #007bb5;
+  border-color: #007bb5;
+}
+
+.text-light-green {
+  color: #489a33;
+}
+
+.product-card {
+  cursor: pointer;
+}
+
+.product-class-link {
+  color: inherit;
+}
+
+.product-class-link:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+.card-footer-address {
+  padding: 0.4rem 0.5rem;
+  background-color: rgb(255, 255, 255);
+  border-top: none;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.animal-image-style {
+  width: 70%;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.animal-carousel {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  padding: 5px 10px;
+}
+
+.carousel-prev {
+  background-image: linear-gradient(90deg, transparent, rgba(0, 0, 0, 0.2));
+}
+
+.carousel-next {
+  background-image: linear-gradient(270deg, transparent, rgba(0, 0, 0, 0.2));
+}
+
+.carousel-control-prev {
+  width: 5%;
+}
+
+.carousel-control-next {
+  width: 5%;
+}
+
+.field-required label:after {
+  content: "*";
+  color: red;
+}

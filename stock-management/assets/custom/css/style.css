@@ -1,0 +1,18 @@
+/*footer*/
+#footer {
+    background: white;
+    padding-top: 50px;
+    margin:0;
+}
+
+
+
+footer {
+    text-align: center;
+    color: #0c0c0c;
+}
+
+footer div p {
+    padding: 28px 0 10px 0;
+    color: #0c0c0c;
+}

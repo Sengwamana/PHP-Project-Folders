@@ -1,0 +1,25 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: stockphp**
+
+**Developed by Masud Alam Rofi**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Admin Login Details**
+
+ID	: 1
+Password: 12345
+
+**Department Login**
+
+ID	: 2
+Password: 3875
+
+ID	: 10
+Password: 12345
+
+
+
+
